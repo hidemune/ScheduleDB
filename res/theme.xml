@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="6" useXmlUI="false">
+    <image name="back_center.png" type="multi"  />
+    <image name="back_left.png" type="multi"  />
+    <image name="back_right.png" type="multi"  />
+    <image name="Button.borderBottom_1.png" type="multi"  />
+    <image name="Button.borderBottomL_1.png" type="multi"  />
+    <image name="Button.borderBottomR_1.png" type="multi"  />
+    <image name="Button.borderCenter_1.png" type="multi"  />
+    <image name="Button.borderLeft_1.png" type="multi"  />
+    <image name="Button.borderRight_1.png" type="multi"  />
+    <image name="Button.borderTop_1.png" type="multi"  />
+    <image name="Button.borderTopL_1.png" type="multi"  />
+    <image name="Button.borderTopR_1.png" type="multi"  />
+    <image name="Button.press#borderBottom_1.png" type="multi"  />
+    <image name="Button.press#borderBottomL_1.png" type="multi"  />
+    <image name="Button.press#borderBottomR_1.png" type="multi"  />
+    <image name="Button.press#borderCenter_1.png" type="multi"  />
+    <image name="Button.press#borderLeft_1.png" type="multi"  />
+    <image name="Button.press#borderRight_1.png" type="multi"  />
+    <image name="Button.press#borderTop_1.png" type="multi"  />
+    <image name="Button.press#borderTopL_1.png" type="multi"  />
+    <image name="Button.press#borderTopR_1.png" type="multi"  />
+    <image name="CalcButton.borderBottom_1.png" type="multi"  />
+    <image name="CalcButton.borderBottomL_1.png" type="multi"  />
+    <image name="CalcButton.borderBottomR_1.png" type="multi"  />
+    <image name="CalcButton.borderCenter_1.png" type="multi"  />
+    <image name="CalcButton.borderLeft_1.png" type="multi"  />
+    <image name="CalcButton.borderRight_1.png" type="multi"  />
+    <image name="CalcButton.borderTop_1.png" type="multi"  />
+    <image name="CalcButton.borderTopL_1.png" type="multi"  />
+    <image name="CalcButton.borderTopR_1.png" type="multi"  />
+    <image name="CalcButton.press#borderBottom_1.png" type="multi"  />
+    <image name="CalcButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="CalcButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="CalcButton.press#borderCenter_1.png" type="multi"  />
+    <image name="CalcButton.press#borderLeft_1.png" type="multi"  />
+    <image name="CalcButton.press#borderRight_1.png" type="multi"  />
+    <image name="CalcButton.press#borderTop_1.png" type="multi"  />
+    <image name="CalcButton.press#borderTopL_1.png" type="multi"  />
+    <image name="CalcButton.press#borderTopR_1.png" type="multi"  />
+    <image name="CalculatorInput.borderBottom_1.png" type="multi"  />
+    <image name="CalculatorInput.borderBottomL_1.png" type="multi"  />
+    <image name="CalculatorInput.borderBottomR_1.png" type="multi"  />
+    <image name="CalculatorInput.borderCenter_1.png" type="multi"  />
+    <image name="CalculatorInput.borderLeft_1.png" type="multi"  />
+    <image name="CalculatorInput.borderRight_1.png" type="multi"  />
+    <image name="CalculatorInput.borderTop_1.png" type="multi"  />
+    <image name="CalculatorInput.borderTopL_1.png" type="multi"  />
+    <image name="CalculatorInput.borderTopR_1.png" type="multi"  />
+    <image name="calendar_arrow_left@2x.png" type="multi"  />
+    <image name="calendar_arrow_right@2x.png" type="multi"  />
+    <image name="CalendarDate.borderBottom_2.png" type="multi"  />
+    <image name="CalendarDate.borderBottomL_2.png" type="multi"  />
+    <image name="CalendarDate.borderBottomR_2.png" type="multi"  />
+    <image name="CalendarDate.borderCenter_2.png" type="multi"  />
+    <image name="CalendarDate.borderLeft_2.png" type="multi"  />
+    <image name="CalendarDate.borderRight_2.png" type="multi"  />
+    <image name="CalendarDate.borderTop_2.png" type="multi"  />
+    <image name="CalendarDate.borderTopL_2.png" type="multi"  />
+    <image name="CalendarDate.borderTopR_2.png" type="multi"  />
+    <image name="CalendarDay.borderBottom_2.png" type="multi"  />
+    <image name="CalendarDay.borderBottomL_2.png" type="multi"  />
+    <image name="CalendarDay.borderBottomR_2.png" type="multi"  />
+    <image name="CalendarDay.borderCenter_2.png" type="multi"  />
+    <image name="CalendarDay.borderLeft_2.png" type="multi"  />
+    <image name="CalendarDay.borderRight_2.png" type="multi"  />
+    <image name="CalendarDay.borderTop_2.png" type="multi"  />
+    <image name="CalendarDay.borderTopL_2.png" type="multi"  />
+    <image name="CalendarDay.borderTopR_2.png" type="multi"  />
+    <image name="CalendarDayArea.borderBottom_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderBottomL_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderBottomR_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderCenter_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderLeft_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderRight_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderTop_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderTopL_1.png" type="multi"  />
+    <image name="CalendarDayArea.borderTopR_1.png" type="multi"  />
+    <image name="CalendarTitleArea.borderBottom_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderBottomL_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderBottomR_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderCenter_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderLeft_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderRight_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderTop_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderTopL_3.png" type="multi"  />
+    <image name="CalendarTitleArea.borderTopR_3.png" type="multi"  />
+    <image name="ClearButton.borderBottom_1.png" type="multi"  />
+    <image name="ClearButton.borderBottomL_1.png" type="multi"  />
+    <image name="ClearButton.borderBottomR_1.png" type="multi"  />
+    <image name="ClearButton.borderCenter_1.png" type="multi"  />
+    <image name="ClearButton.borderLeft_1.png" type="multi"  />
+    <image name="ClearButton.borderRight_1.png" type="multi"  />
+    <image name="ClearButton.borderTop_1.png" type="multi"  />
+    <image name="ClearButton.borderTopL_1.png" type="multi"  />
+    <image name="ClearButton.borderTopR_1.png" type="multi"  />
+    <image name="ClearButton.press#borderBottom_1.png" type="multi"  />
+    <image name="ClearButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="ClearButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="ClearButton.press#borderCenter_1.png" type="multi"  />
+    <image name="ClearButton.press#borderLeft_1.png" type="multi"  />
+    <image name="ClearButton.press#borderRight_1.png" type="multi"  />
+    <image name="ClearButton.press#borderTop_1.png" type="multi"  />
+    <image name="ClearButton.press#borderTopL_1.png" type="multi"  />
+    <image name="ClearButton.press#borderTopR_1.png" type="multi"  />
+    <image name="command_center.png" type="multi"  />
+    <image name="command_left.png" type="multi"  />
+    <image name="command_right.png" type="multi"  />
+    <legacyFont name="Font 1" />
+    <l10n name="Localization (L10N) 1">
+        <lang name="en">
+            <entry key="Calendar.Monday" value="M" />
+            <entry key="Today" value="Today" />
+            <entry key="29" value="29" />
+            <entry key="Calendar.Thursday" value="Th" />
+            <entry key="W" value="W" />
+            <entry key="28" value="28" />
+            <entry key="27" value="27" />
+            <entry key="26" value="26" />
+            <entry key="25" value="25" />
+            <entry key="Update" value="Update" />
+            <entry key="24" value="24" />
+            <entry key="23" value="23" />
+            <entry key="cancel" value="Cancel" />
+            <entry key="22" value="22" />
+            <entry key="Delete" value="Delete" />
+            <entry key="May" value="May" />
+            <entry key="21" value="21" />
+            <entry key="20" value="20" />
+            <entry key="Calendar.Tuesday" value="Tu" />
+            <entry key="3. Item 3" value="3. Item 3" />
+            <entry key="M" value="M" />
+            <entry key="Calendar.Saturday" value="Sa" />
+            <entry key="Mar" value="Mar" />
+            <entry key="F" value="F" />
+            <entry key="Calendar" value="Calendar" />
+            <entry key="Calendar.Wednesday" value="W" />
+            <entry key="Tu" value="Tu" />
+            <entry key="1. 2888/88/88 (WWW)" value="1. 2888/88/88 (WWW)" />
+            <entry key="9" value="9" />
+            <entry key="edit" value="Edit" />
+            <entry key="8" value="8" />
+            <entry key="Text" value="Text" />
+            <entry key="19" value="19" />
+            <entry key="7" value="7" />
+            <entry key="18" value="18" />
+            <entry key="6" value="6" />
+            <entry key="17" value="17" />
+            <entry key="5" value="5" />
+            <entry key="16" value="16" />
+            <entry key="4" value="4" />
+            <entry key="15" value="15" />
+            <entry key="3" value="3" />
+            <entry key="14" value="14" />
+            <entry key="2" value="2" />
+            <entry key="13" value="13" />
+            <entry key="Calendar.Sunday" value="Su" />
+            <entry key="1" value="1" />
+            <entry key="12" value="12" />
+            <entry key="Th" value="Th" />
+            <entry key="11" value="11" />
+            <entry key="10" value="10" />
+            <entry key="Calendar.Friday" value="F" />
+            <entry key="Jan" value="Jan" />
+            <entry key="ok" value="OK" />
+            <entry key="Su" value="Su" />
+            <entry key="2100" value="2100" />
+            <entry key="Apr" value="Apr" />
+            <entry key="2099" value="2099" />
+            <entry key="2098" value="2098" />
+            <entry key="2. Item 2" value="2. Item 2" />
+            <entry key="Add" value="Add" />
+            <entry key="2097" value="2097" />
+            <entry key="2096" value="2096" />
+            <entry key="select" value="Select" />
+            <entry key="31" value="31" />
+            <entry key="30" value="30" />
+            <entry key="Sa" value="Sa" />
+            <entry key="Feb" value="Feb" />
+            <entry key="menu" value="Menu" />
+            <entry key="Schedule" value="Schedule" />
+        </lang>
+        <lang name="ja">
+            <entry key="Calendar.Monday" value="&#x6708;" />
+            <entry key="Today" value="&#x4eca;&#x65e5;" />
+            <entry key="29" value="29" />
+            <entry key="Calendar.Thursday" value="&#x6728;" />
+            <entry key="W" value="" />
+            <entry key="28" value="28" />
+            <entry key="27" value="27" />
+            <entry key="26" value="26" />
+            <entry key="25" value="25" />
+            <entry key="Update" value="&#x66f4;&#x65b0;" />
+            <entry key="24" value="24" />
+            <entry key="23" value="23" />
+            <entry key="cancel" value="&#x30ad;&#x30e3;&#x30f3;&#x30bb;&#x30eb;" />
+            <entry key="22" value="22" />
+            <entry key="Delete" value="&#x524a;&#x9664;" />
+            <entry key="May" value="" />
+            <entry key="21" value="21" />
+            <entry key="20" value="20" />
+            <entry key="Calendar.Tuesday" value="" />
+            <entry key="3. Item 3" value="3. Item 3" />
+            <entry key="M" value="" />
+            <entry key="Calendar.Saturday" value="" />
+            <entry key="Mar" value="" />
+            <entry key="F" value="" />
+            <entry key="Calendar" value="&#x30ab;&#x30ec;&#x30f3;&#x30c0;&#x30fc;" />
+            <entry key="Calendar.Wednesday" value="" />
+            <entry key="Tu" value="" />
+            <entry key="1. 2888/88/88 (WWW)" value="" />
+            <entry key="9" value="9" />
+            <entry key="edit" value="&#x7de8;&#x96c6;" />
+            <entry key="8" value="8" />
+            <entry key="Text" value="" />
+            <entry key="19" value="19" />
+            <entry key="7" value="7" />
+            <entry key="18" value="18" />
+            <entry key="6" value="6" />
+            <entry key="17" value="17" />
+            <entry key="5" value="5" />
+            <entry key="16" value="16" />
+            <entry key="4" value="4" />
+            <entry key="15" value="15" />
+            <entry key="3" value="3" />
+            <entry key="14" value="14" />
+            <entry key="2" value="2" />
+            <entry key="13" value="13" />
+            <entry key="Calendar.Sunday" value="&#x65e5;" />
+            <entry key="1" value="1" />
+            <entry key="12" value="12" />
+            <entry key="Th" value="" />
+            <entry key="11" value="11" />
+            <entry key="10" value="" />
+            <entry key="Calendar.Friday" value="" />
+            <entry key="Jan" value="" />
+            <entry key="ok" value="OK" />
+            <entry key="Su" value="" />
+            <entry key="2100" value="" />
+            <entry key="Apr" value="" />
+            <entry key="2099" value="2099" />
+            <entry key="2098" value="2098" />
+            <entry key="2. Item 2" value="2. Item 2" />
+            <entry key="Add" value="&#x8ffd;&#x52a0;" />
+            <entry key="2097" value="2097" />
+            <entry key="2096" value="2096" />
+            <entry key="select" value="&#x9078;&#x629e;" />
+            <entry key="31" value="31" />
+            <entry key="30" value="30" />
+            <entry key="Sa" value="" />
+            <entry key="Feb" value="" />
+            <entry key="menu" value="&#x30e1;&#x30cb;&#x30e5;&#x30fc;" />
+            <entry key="Schedule" value="" />
+        </lang>
+    </l10n>
+    <ui name="Main" />
+    <image name="MetalButton.borderBottom_1.png" type="multi"  />
+    <image name="MetalButton.borderBottomL_1.png" type="multi"  />
+    <image name="MetalButton.borderBottomR_1.png" type="multi"  />
+    <image name="MetalButton.borderCenter_1.png" type="multi"  />
+    <image name="MetalButton.borderLeft_1.png" type="multi"  />
+    <image name="MetalButton.borderRight_1.png" type="multi"  />
+    <image name="MetalButton.borderTop_1.png" type="multi"  />
+    <image name="MetalButton.borderTopL_1.png" type="multi"  />
+    <image name="MetalButton.borderTopR_1.png" type="multi"  />
+    <image name="MetalButton.press#borderBottom_1.png" type="multi"  />
+    <image name="MetalButton.press#borderBottomL_1.png" type="multi"  />
+    <image name="MetalButton.press#borderBottomR_1.png" type="multi"  />
+    <image name="MetalButton.press#borderCenter_1.png" type="multi"  />
+    <image name="MetalButton.press#borderLeft_1.png" type="multi"  />
+    <image name="MetalButton.press#borderRight_1.png" type="multi"  />
+    <image name="MetalButton.press#borderTop_1.png" type="multi"  />
+    <image name="MetalButton.press#borderTopL_1.png" type="multi"  />
+    <image name="MetalButton.press#borderTopR_1.png" type="multi"  />
+    <image name="MultiButton.borderBottom_1.png" type="multi"  />
+    <image name="MultiButton.borderBottomL_1.png" type="multi"  />
+    <image name="MultiButton.borderBottomR_1.png" type="multi"  />
+    <image name="MultiButton.borderCenter_1.png" type="multi"  />
+    <image name="MultiButton.borderLeft_1.png" type="multi"  />
+    <image name="MultiButton.borderRight_1.png" type="multi"  />
+    <image name="MultiButton.borderTop_1.png" type="multi"  />
+    <image name="MultiButton.borderTopL_1.png" type="multi"  />
+    <image name="MultiButton.borderTopR_1.png" type="multi"  />
+    <image name="navbar@2x.png" type="multi"  />
+    <image name="Slider.borderBottom_2.png" type="multi"  />
+    <image name="Slider.borderBottomL_2.png" type="multi"  />
+    <image name="Slider.borderBottomR_2.png" type="multi"  />
+    <image name="Slider.borderCenter_2.png" type="multi"  />
+    <image name="Slider.borderLeft_2.png" type="multi"  />
+    <image name="Slider.borderRight_2.png" type="multi"  />
+    <image name="Slider.borderTop_2.png" type="multi"  />
+    <image name="Slider.borderTopL_2.png" type="multi"  />
+    <image name="Slider.borderTopR_2.png" type="multi"  />
+    <image name="TextField.borderBottom_1.png" type="multi"  />
+    <image name="TextField.borderBottomL_1.png" type="multi"  />
+    <image name="TextField.borderBottomR_1.png" type="multi"  />
+    <image name="TextField.borderCenter_1.png" type="multi"  />
+    <image name="TextField.borderLeft_1.png" type="multi"  />
+    <image name="TextField.borderRight_1.png" type="multi"  />
+    <image name="TextField.borderTop_1.png" type="multi"  />
+    <image name="TextField.borderTopL_1.png" type="multi"  />
+    <image name="TextField.borderTopR_1.png" type="multi"  />
+    <theme name="Theme">
+        <val key="@calTitleDayStyleBool" value="true" />
+        <val key="@calTransitionVertBool" value="false" />
+        <val key="@calendarLeftImage" value="calendar_arrow_left@2x.png" />
+        <val key="@calendarRightImage" value="calendar_arrow_right@2x.png" />
+        <val key="@includeNativeBool" value="true" />
+        <border key="BackCommand.border" type="imageH" i1="back_left.png" i2="back_right.png" i3="back_center.png" />
+        <val key="BackCommand.fgColor" value="0" />
+        <border key="BackCommand.press#border" type="imageH" i1="back_left.png" i2="back_right.png" i3="back_center.png" />
+        <val key="BackCommand.press#fgColor" value="0" />
+        <val key="BackCommand.press#textDecoration" value="0" />
+        <val key="BackCommand.press#transparency" value="0" />
+        <border key="BackCommand.sel#border" type="imageH" i1="back_left.png" i2="back_right.png" i3="back_center.png" />
+        <val key="BackCommand.sel#fgColor" value="0" />
+        <val key="BackCommand.sel#textDecoration" value="0" />
+        <val key="BackCommand.sel#transparency" value="0" />
+        <val key="BackCommand.textDecoration" value="0" />
+        <val key="BackCommand.transparency" value="0" />
+        <border key="Button.border" type="image" i1="Button.borderTop_1.png" i2="Button.borderBottom_1.png" i3="Button.borderLeft_1.png" i4="Button.borderRight_1.png" i5="Button.borderTopL_1.png" i6="Button.borderTopR_1.png" i7="Button.borderBottomL_1.png" i8="Button.borderBottomR_1.png" i9="Button.borderCenter_1.png" />
+        <val key="Button.fgColor" value="0" />
+        <font key="Button.font" type="system" face="0" style="1" size="16" />
+        <border key="Button.press#border" type="image" i1="Button.press#borderTop_1.png" i2="Button.press#borderBottom_1.png" i3="Button.press#borderLeft_1.png" i4="Button.press#borderRight_1.png" i5="Button.press#borderTopL_1.png" i6="Button.press#borderTopR_1.png" i7="Button.press#borderBottomL_1.png" i8="Button.press#borderBottomR_1.png" i9="Button.press#borderCenter_1.png" />
+        <val key="Button.press#fgColor" value="ffffff" />
+        <font key="Button.press#font" type="system" face="0" style="1" size="16" />
+        <val key="Button.press#textDecoration" value="8" />
+        <val key="Button.press#transparency" value="0" />
+        <border key="Button.sel#border" type="image" i1="Button.borderTop_1.png" i2="Button.borderBottom_1.png" i3="Button.borderLeft_1.png" i4="Button.borderRight_1.png" i5="Button.borderTopL_1.png" i6="Button.borderTopR_1.png" i7="Button.borderBottomL_1.png" i8="Button.borderBottomR_1.png" i9="Button.borderCenter_1.png" />
+        <val key="Button.sel#fgColor" value="ffffff" />
+        <font key="Button.sel#font" type="system" face="0" style="1" size="16" />
+        <val key="Button.sel#textDecoration" value="8" />
+        <val key="Button.sel#transparency" value="0" />
+        <val key="Button.textDecoration" value="16" />
+        <val key="Button.transparency" value="0" />
+        <border key="CalcButton.border" type="image" i1="CalcButton.borderTop_1.png" i2="CalcButton.borderBottom_1.png" i3="CalcButton.borderLeft_1.png" i4="CalcButton.borderRight_1.png" i5="CalcButton.borderTopL_1.png" i6="CalcButton.borderTopR_1.png" i7="CalcButton.borderBottomL_1.png" i8="CalcButton.borderBottomR_1.png" i9="CalcButton.borderCenter_1.png" />
+        <val key="CalcButton.derive" value="Button" />
+        <val key="CalcButton.dis#derive" value="CalcButton." />
+        <val key="CalcButton.fgColor" value="ffffff" />
+        <val key="CalcButton.marUnit" value="2,2,2,2" />
+        <val key="CalcButton.margin" value="1,1,1,1" />
+        <border key="CalcButton.press#border" type="image" i1="CalcButton.press#borderTop_1.png" i2="CalcButton.press#borderBottom_1.png" i3="CalcButton.press#borderLeft_1.png" i4="CalcButton.press#borderRight_1.png" i5="CalcButton.press#borderTopL_1.png" i6="CalcButton.press#borderTopR_1.png" i7="CalcButton.press#borderBottomL_1.png" i8="CalcButton.press#borderBottomR_1.png" i9="CalcButton.press#borderCenter_1.png" />
+        <val key="CalcButton.press#derive" value="Button" />
+        <val key="CalcButton.press#fgColor" value="ffffff" />
+        <val key="CalcButton.press#marUnit" value="2,2,2,2" />
+        <val key="CalcButton.press#margin" value="1,1,1,1" />
+        <val key="CalcButton.press#textDecoration" value="8" />
+        <val key="CalcButton.press#transparency" value="0" />
+        <border key="CalcButton.sel#border" type="image" i1="CalcButton.borderTop_1.png" i2="CalcButton.borderBottom_1.png" i3="CalcButton.borderLeft_1.png" i4="CalcButton.borderRight_1.png" i5="CalcButton.borderTopL_1.png" i6="CalcButton.borderTopR_1.png" i7="CalcButton.borderBottomL_1.png" i8="CalcButton.borderBottomR_1.png" i9="CalcButton.borderCenter_1.png" />
+        <val key="CalcButton.sel#derive" value="Button" />
+        <val key="CalcButton.sel#fgColor" value="ffffff" />
+        <val key="CalcButton.sel#marUnit" value="2,2,2,2" />
+        <val key="CalcButton.sel#margin" value="1,1,1,1" />
+        <val key="CalcButton.sel#textDecoration" value="8" />
+        <val key="CalcButton.sel#transparency" value="0" />
+        <val key="CalcButton.textDecoration" value="8" />
+        <val key="CalcButton.transparency" value="0" />
+        <val key="CalculatorInput.align" value="3" />
+        <border key="CalculatorInput.border" type="image" i1="CalculatorInput.borderTop_1.png" i2="CalculatorInput.borderBottom_1.png" i3="CalculatorInput.borderLeft_1.png" i4="CalculatorInput.borderRight_1.png" i5="CalculatorInput.borderTopL_1.png" i6="CalculatorInput.borderTopR_1.png" i7="CalculatorInput.borderBottomL_1.png" i8="CalculatorInput.borderBottomR_1.png" i9="CalculatorInput.borderCenter_1.png" />
+        <val key="CalculatorInput.derive" value="TextField" />
+        <val key="CalculatorInput.fgColor" value="cc0033" />
+        <font key="CalculatorInput.font" type="system" face="0" style="1" size="16" />
+        <val key="CalculatorInput.marUnit" value="2,2,2,2" />
+        <val key="CalculatorInput.margin" value="1,4,1,1" />
+        <val key="CalculatorInput.padUnit" value="2,2,2,2" />
+        <val key="CalculatorInput.padding" value="1,1,2,2" />
+        <val key="CalculatorInput.sel#align" value="3" />
+        <border key="CalculatorInput.sel#border" type="image" i1="CalculatorInput.borderTop_1.png" i2="CalculatorInput.borderBottom_1.png" i3="CalculatorInput.borderLeft_1.png" i4="CalculatorInput.borderRight_1.png" i5="CalculatorInput.borderTopL_1.png" i6="CalculatorInput.borderTopR_1.png" i7="CalculatorInput.borderBottomL_1.png" i8="CalculatorInput.borderBottomR_1.png" i9="CalculatorInput.borderCenter_1.png" />
+        <val key="CalculatorInput.sel#derive" value="TextField" />
+        <val key="CalculatorInput.sel#fgColor" value="cc0033" />
+        <font key="CalculatorInput.sel#font" type="system" face="0" style="1" size="16" />
+        <val key="CalculatorInput.sel#marUnit" value="2,2,2,2" />
+        <val key="CalculatorInput.sel#margin" value="1,4,1,1" />
+        <val key="CalculatorInput.sel#padUnit" value="2,2,2,2" />
+        <val key="CalculatorInput.sel#padding" value="1,1,2,2" />
+        <val key="CalculatorInput.sel#transparency" value="0" />
+        <val key="CalculatorInput.transparency" value="0" />
+        <val key="Calendar.margin" value="0,0,0,0" />
+        <val key="Calendar.padding" value="0,0,0,0" />
+        <val key="Calendar.transparency" value="0" />
+        <border key="CalendarDate.border" type="image" i1="CalendarDate.borderTop_2.png" i2="CalendarDate.borderBottom_2.png" i3="CalendarDate.borderLeft_2.png" i4="CalendarDate.borderRight_2.png" i5="CalendarDate.borderTopL_2.png" i6="CalendarDate.borderTopR_2.png" i7="CalendarDate.borderBottomL_2.png" i8="CalendarDate.borderBottomR_2.png" i9="CalendarDate.borderCenter_2.png" />
+        <val key="CalendarDate.margin" value="0,0,0,0" />
+        <val key="CalendarDate.padUnit" value="2,2,2,2" />
+        <val key="CalendarDate.padding" value="2,2,2,2" />
+        <val key="CalendarDate.transparency" value="0" />
+        <val key="CalendarDateLabel.align" value="4" />
+        <val key="CalendarDateLabel.fgColor" value="0" />
+        <font key="CalendarDateLabel.font" type="system" face="0" style="1" size="16" />
+        <val key="CalendarDateLabel.textDecoration" value="16" />
+        <val key="CalendarDateLabel.transparency" value="0" />
+        <val key="CalendarDay.bgColor" value="ffffff" />
+        <border key="CalendarDay.border" type="image" i1="CalendarDay.borderTop_2.png" i2="CalendarDay.borderBottom_2.png" i3="CalendarDay.borderLeft_2.png" i4="CalendarDay.borderRight_2.png" i5="CalendarDay.borderTopL_2.png" i6="CalendarDay.borderTopR_2.png" i7="CalendarDay.borderBottomL_2.png" i8="CalendarDay.borderBottomR_2.png" i9="CalendarDay.borderCenter_2.png" />
+        <val key="CalendarDay.dis#align" value="4" />
+        <val key="CalendarDay.dis#bgColor" value="ffffff" />
+        <val key="CalendarDay.dis#derive" value="CalendarDay" />
+        <val key="CalendarDay.dis#fgColor" value="cccccc" />
+        <val key="CalendarDay.dis#transparency" value="255" />
+        <val key="CalendarDay.fgColor" value="5e5e5e" />
+        <val key="CalendarDay.margin" value="0,0,0,0" />
+        <val key="CalendarDay.padUnit" value="2,2,2,2" />
+        <val key="CalendarDay.padding" value="2,2,1,1" />
+        <val key="CalendarDay.press#bgColor" value="ffffcc" />
+        <val key="CalendarDay.press#derive" value="CalendarDay" />
+        <val key="CalendarDay.sel#bgColor" value="ffcccc" />
+        <val key="CalendarDay.sel#derive" value="CalendarDay" />
+        <val key="CalendarDay.transparency" value="255" />
+        <border key="CalendarDayArea.border" type="image" i1="CalendarDayArea.borderTop_1.png" i2="CalendarDayArea.borderBottom_1.png" i3="CalendarDayArea.borderLeft_1.png" i4="CalendarDayArea.borderRight_1.png" i5="CalendarDayArea.borderTopL_1.png" i6="CalendarDayArea.borderTopR_1.png" i7="CalendarDayArea.borderBottomL_1.png" i8="CalendarDayArea.borderBottomR_1.png" i9="CalendarDayArea.borderCenter_1.png" />
+        <val key="CalendarDayArea.margin" value="0,0,0,0" />
+        <val key="CalendarDayArea.padUnit" value="2,2,2,2" />
+        <val key="CalendarDayArea.padding" value="0,2,1,1" />
+        <val key="CalendarFrame.transparency" value="0" />
+        <val key="CalendarLeft.dis#derive" value="CalendarLeft." />
+        <val key="CalendarLeft.press#derive" value="CalendarLeft" />
+        <val key="CalendarLeft.press#transparency" value="0" />
+        <val key="CalendarLeft.sel#derive" value="CalendarLeft." />
+        <val key="CalendarLeft.transparency" value="0" />
+        <val key="CalendarRight.dis#derive" value="CalendarRight." />
+        <val key="CalendarRight.press#derive" value="CalendarRight" />
+        <val key="CalendarRight.press#transparency" value="0" />
+        <val key="CalendarRight.sel#derive" value="CalendarRight." />
+        <val key="CalendarRight.transparency" value="0" />
+        <val key="CalendarSelectedDay.bgColor" value="d32e2e" />
+        <border key="CalendarSelectedDay.border" type="empty" />
+        <val key="CalendarSelectedDay.dis#derive" value="CalendarSelectedDay." />
+        <val key="CalendarSelectedDay.fgColor" value="ffffff" />
+        <val key="CalendarSelectedDay.margin" value="0,0,0,0" />
+        <val key="CalendarSelectedDay.press#bgColor" value="0" />
+        <val key="CalendarSelectedDay.press#derive" value="CalendarSelectedDay" />
+        <val key="CalendarSelectedDay.sel#derive" value="CalendarSelectedDay" />
+        <val key="CalendarSelectedDay.textDecoration" value="8" />
+        <val key="CalendarSelectedDay.transparency" value="255" />
+        <val key="CalendarTitle.bgColor" value="ffffff" />
+        <val key="CalendarTitle.fgColor" value="0" />
+        <font key="CalendarTitle.font" type="system" face="0" style="1" size="8" />
+        <val key="CalendarTitle.margin" value="0,0,0,0" />
+        <val key="CalendarTitle.padUnit" value="2,2,2,2" />
+        <val key="CalendarTitle.padding" value="2,2,1,1" />
+        <val key="CalendarTitle.textDecoration" value="16" />
+        <val key="CalendarTitle.transparency" value="0" />
+        <border key="CalendarTitleArea.border" type="image" i1="CalendarTitleArea.borderTop_3.png" i2="CalendarTitleArea.borderBottom_3.png" i3="CalendarTitleArea.borderLeft_3.png" i4="CalendarTitleArea.borderRight_3.png" i5="CalendarTitleArea.borderTopL_3.png" i6="CalendarTitleArea.borderTopR_3.png" i7="CalendarTitleArea.borderBottomL_3.png" i8="CalendarTitleArea.borderBottomR_3.png" i9="CalendarTitleArea.borderCenter_3.png" />
+        <val key="CalendarTitleArea.margin" value="0,0,0,0" />
+        <val key="CheckBox.fgColor" value="0" />
+        <val key="CheckBox.press#fgColor" value="0" />
+        <val key="CheckBox.press#transparency" value="0" />
+        <val key="CheckBox.sel#fgColor" value="0" />
+        <val key="CheckBox.sel#transparency" value="0" />
+        <val key="CheckBox.transparency" value="0" />
+        <border key="ClearButton.border" type="image" i1="ClearButton.borderTop_1.png" i2="ClearButton.borderBottom_1.png" i3="ClearButton.borderLeft_1.png" i4="ClearButton.borderRight_1.png" i5="ClearButton.borderTopL_1.png" i6="ClearButton.borderTopR_1.png" i7="ClearButton.borderBottomL_1.png" i8="ClearButton.borderBottomR_1.png" i9="ClearButton.borderCenter_1.png" />
+        <val key="ClearButton.derive" value="CalcButton" />
+        <val key="ClearButton.dis#derive" value="ClearButton." />
+        <border key="ClearButton.press#border" type="image" i1="ClearButton.press#borderTop_1.png" i2="ClearButton.press#borderBottom_1.png" i3="ClearButton.press#borderLeft_1.png" i4="ClearButton.press#borderRight_1.png" i5="ClearButton.press#borderTopL_1.png" i6="ClearButton.press#borderTopR_1.png" i7="ClearButton.press#borderBottomL_1.png" i8="ClearButton.press#borderBottomR_1.png" i9="ClearButton.press#borderCenter_1.png" />
+        <val key="ClearButton.press#derive" value="CalcButton" />
+        <border key="ClearButton.sel#border" type="image" i1="ClearButton.borderTop_1.png" i2="ClearButton.borderBottom_1.png" i3="ClearButton.borderLeft_1.png" i4="ClearButton.borderRight_1.png" i5="ClearButton.borderTopL_1.png" i6="ClearButton.borderTopR_1.png" i7="ClearButton.borderBottomL_1.png" i8="ClearButton.borderBottomR_1.png" i9="ClearButton.borderCenter_1.png" />
+        <val key="ClearButton.sel#derive" value="CalcButton" />
+        <val key="Container.transparency" value="0" />
+        <val key="ContentPane.transparency" value="0" />
+        <val key="Emblem.sel#transparency" value="0" />
+        <val key="Emblem.transparency" value="0" />
+        <val key="Form.bgImage" value="tile.jpg" />
+        <val key="Form.bgType" value="2" />
+        <border key="Form.border" type="empty" />
+        <val key="Label.fgColor" value="0" />
+        <val key="Label.transparency" value="0" />
+        <border key="List.border" type="empty" />
+        <val key="List.margin" value="0,0,0,0" />
+        <val key="List.padding" value="0,0,0,0" />
+        <border key="MetalButton.border" type="image" i1="MetalButton.borderTop_1.png" i2="MetalButton.borderBottom_1.png" i3="MetalButton.borderLeft_1.png" i4="MetalButton.borderRight_1.png" i5="MetalButton.borderTopL_1.png" i6="MetalButton.borderTopR_1.png" i7="MetalButton.borderBottomL_1.png" i8="MetalButton.borderBottomR_1.png" i9="MetalButton.borderCenter_1.png" />
+        <val key="MetalButton.derive" value="Button" />
+        <border key="MetalButton.press#border" type="image" i1="MetalButton.press#borderTop_1.png" i2="MetalButton.press#borderBottom_1.png" i3="MetalButton.press#borderLeft_1.png" i4="MetalButton.press#borderRight_1.png" i5="MetalButton.press#borderTopL_1.png" i6="MetalButton.press#borderTopR_1.png" i7="MetalButton.press#borderBottomL_1.png" i8="MetalButton.press#borderBottomR_1.png" i9="MetalButton.press#borderCenter_1.png" />
+        <val key="MetalButton.press#derive" value="Button" />
+        <val key="MetalButton.press#fgColor" value="ffffff" />
+        <val key="MetalButton.press#textDecoration" value="8" />
+        <border key="MetalButton.sel#border" type="image" i1="MetalButton.borderTop_1.png" i2="MetalButton.borderBottom_1.png" i3="MetalButton.borderLeft_1.png" i4="MetalButton.borderRight_1.png" i5="MetalButton.borderTopL_1.png" i6="MetalButton.borderTopR_1.png" i7="MetalButton.borderBottomL_1.png" i8="MetalButton.borderBottomR_1.png" i9="MetalButton.borderCenter_1.png" />
+        <val key="MetalButton.sel#derive" value="Button" />
+        <val key="MetalButton.sel#fgColor" value="ffffff" />
+        <val key="MetalButton.sel#textDecoration" value="8" />
+        <val key="MonthView.margin" value="0,1,0,0" />
+        <val key="MonthView.padding" value="0,0,0,0" />
+        <val key="MonthView.transparency" value="0" />
+        <border key="MultiButton.border" type="image" i1="MultiButton.borderTop_1.png" i2="MultiButton.borderBottom_1.png" i3="MultiButton.borderLeft_1.png" i4="MultiButton.borderRight_1.png" i5="MultiButton.borderTopL_1.png" i6="MultiButton.borderTopR_1.png" i7="MultiButton.borderBottomL_1.png" i8="MultiButton.borderBottomR_1.png" i9="MultiButton.borderCenter_1.png" />
+        <val key="MultiButton.margin" value="0,0,0,0" />
+        <val key="MultiButton.sel#margin" value="0,0,0,0" />
+        <val key="MultiButtonFocus.sel#bgColor" value="0" />
+        <val key="MultiButtonFocus.sel#transparency" value="100" />
+        <val key="MultiLine1.fgColor" value="0" />
+        <font key="MultiLine1.font" type="system" face="0" style="1" size="16" />
+        <val key="MultiLine1.sel#derive" value="MultiLine1" />
+        <val key="MultiLine1.sel#fgColor" value="ffffff" />
+        <val key="MultiLine1.sel#transparency" value="0" />
+        <val key="MultiLine1.transparency" value="0" />
+        <val key="MultiLine2.fgColor" value="0" />
+        <font key="MultiLine2.font" type="system" face="0" style="0" size="8" />
+        <val key="MultiLine2.padUnit" value="2,2,2,2" />
+        <val key="MultiLine2.padding" value="0,0,1,1" />
+        <val key="MultiLine2.press#fgColor" value="ffffff" />
+        <font key="MultiLine2.press#font" type="system" face="0" style="0" size="8" />
+        <val key="MultiLine2.press#padUnit" value="2,2,2,2" />
+        <val key="MultiLine2.press#padding" value="0,0,1,1" />
+        <val key="MultiLine2.press#transparency" value="0" />
+        <val key="MultiLine2.sel#fgColor" value="ffffff" />
+        <font key="MultiLine2.sel#font" type="system" face="0" style="0" size="8" />
+        <val key="MultiLine2.sel#padUnit" value="2,2,2,2" />
+        <val key="MultiLine2.sel#padding" value="0,0,1,1" />
+        <val key="MultiLine2.sel#transparency" value="0" />
+        <val key="MultiLine2.transparency" value="0" />
+        <val key="MultiLine3.fgColor" value="0" />
+        <font key="MultiLine3.font" type="system" face="0" style="0" size="8" />
+        <val key="MultiLine3.padUnit" value="2,2,2,2" />
+        <val key="MultiLine3.padding" value="0,0,1,1" />
+        <val key="MultiLine3.transparency" value="0" />
+        <val key="PaddedContainer.derive" value="Container" />
+        <val key="PaddedContainer.padUnit" value="2,2,2,2" />
+        <val key="PaddedContainer.padding" value="2,2,2,2" />
+        <val key="RadioButton.fgColor" value="0" />
+        <val key="RadioButton.press#fgColor" value="0" />
+        <val key="RadioButton.press#transparency" value="0" />
+        <val key="RadioButton.sel#fgColor" value="0" />
+        <val key="RadioButton.sel#transparency" value="0" />
+        <val key="RadioButton.transparency" value="0" />
+        <val key="Scroll.margin" value="0,0,0,0" />
+        <val key="Scroll.padding" value="0,0,0,0" />
+        <val key="Scroll.sel#margin" value="0,0,0,0" />
+        <val key="Scroll.sel#padding" value="0,0,0,0" />
+        <val key="ScrollThumb.margin" value="0,0,0,0" />
+        <val key="ScrollThumb.padding" value="0,0,0,0" />
+        <val key="ScrollThumb.sel#margin" value="0,0,0,0" />
+        <val key="ScrollThumb.sel#padding" value="0,0,0,0" />
+        <border key="Slider.border" type="image" i1="Slider.borderTop_2.png" i2="Slider.borderBottom_2.png" i3="Slider.borderLeft_2.png" i4="Slider.borderRight_2.png" i5="Slider.borderTopL_2.png" i6="Slider.borderTopR_2.png" i7="Slider.borderBottomL_2.png" i8="Slider.borderBottomR_2.png" i9="Slider.borderCenter_2.png" />
+        <val key="Slider.dis#derive" value="Slider." />
+        <val key="Slider.margin" value="0,0,0,0" />
+        <val key="Slider.padding" value="0,0,0,0" />
+        <val key="Slider.press#derive" value="Slider." />
+        <val key="Slider.sel#derive" value="Slider" />
+        <val key="Slider.sel#margin" value="0,0,0,0" />
+        <val key="Slider.sel#padding" value="0,0,0,0" />
+        <val key="Slider.sel#transparency" value="0" />
+        <val key="Slider.transparency" value="0" />
+        <border key="SliderFull.border" type="image" i1="Slider.borderTop_2.png" i2="Slider.borderBottom_2.png" i3="Slider.borderLeft_2.png" i4="Slider.borderRight_2.png" i5="Slider.borderTopL_2.png" i6="Slider.borderTopR_2.png" i7="Slider.borderBottomL_2.png" i8="Slider.borderBottomR_2.png" i9="Slider.borderCenter_2.png" />
+        <val key="SliderFull.margin" value="0,0,0,0" />
+        <val key="SliderFull.padding" value="0,0,0,0" />
+        <gradient key="SliderFull.sel#bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="SliderFull.sel#bgType" value="0" />
+        <border key="SliderFull.sel#border" type="empty" />
+        <val key="SliderFull.sel#margin" value="0,0,0,0" />
+        <val key="SliderFull.sel#padding" value="0,0,0,0" />
+        <val key="SliderFull.sel#transparency" value="0" />
+        <val key="SliderFull.transparency" value="0" />
+        <font key="Tab.font" type="system" face="0" style="0" size="8" />
+        <val key="Tab.transparency" value="0" />
+        <val key="Tabs.transparency" value="0" />
+        <val key="TabsContainer.transparency" value="0" />
+        <border key="TextField.border" type="image" i1="TextField.borderTop_1.png" i2="TextField.borderBottom_1.png" i3="TextField.borderLeft_1.png" i4="TextField.borderRight_1.png" i5="TextField.borderTopL_1.png" i6="TextField.borderTopR_1.png" i7="TextField.borderBottomL_1.png" i8="TextField.borderBottomR_1.png" i9="TextField.borderCenter_1.png" />
+        <val key="TextField.dis#derive" value="TextField." />
+        <val key="TextField.fgColor" value="ffffff" />
+        <font key="TextField.font" type="system" face="0" style="1" size="0" />
+        <val key="TextField.press#derive" value="TextField." />
+        <border key="TextField.sel#border" type="image" i1="TextField.borderTop_1.png" i2="TextField.borderBottom_1.png" i3="TextField.borderLeft_1.png" i4="TextField.borderRight_1.png" i5="TextField.borderTopL_1.png" i6="TextField.borderTopR_1.png" i7="TextField.borderBottomL_1.png" i8="TextField.borderBottomR_1.png" i9="TextField.borderCenter_1.png" />
+        <val key="TextField.sel#fgColor" value="ffffff" />
+        <font key="TextField.sel#font" type="system" face="0" style="1" size="0" />
+        <val key="TextField.sel#transparency" value="0" />
+        <val key="TextField.transparency" value="0" />
+        <val key="Title.fgColor" value="0" />
+        <font key="Title.font" type="system" face="0" style="1" size="16" />
+        <val key="Title.textDecoration" value="16" />
+        <val key="Title.transparency" value="0" />
+        <val key="TitleArea.bgImage" value="navbar@2x.png" />
+        <val key="TitleArea.bgType" value="2" />
+        <border key="TitleArea.border" type="empty" />
+        <border key="TitleCommand.border" type="imageH" i1="command_left.png" i2="command_right.png" i3="command_center.png" />
+        <val key="TitleCommand.derive" value="BackCommand" />
+        <val key="TitleCommand.fgColor" value="0" />
+        <val key="TitleCommand.marUnit" value="2,2,2,2" />
+        <val key="TitleCommand.margin" value="0,0,1,1" />
+        <border key="TitleCommand.press#border" type="imageH" i1="command_left.png" i2="command_right.png" i3="command_center.png" />
+        <val key="TitleCommand.press#derive" value="BackCommand" />
+        <val key="TitleCommand.press#fgColor" value="0" />
+        <val key="TitleCommand.press#marUnit" value="2,2,2,2" />
+        <val key="TitleCommand.press#margin" value="0,0,1,1" />
+        <val key="TitleCommand.press#transparency" value="0" />
+        <border key="TitleCommand.sel#border" type="imageH" i1="command_left.png" i2="command_right.png" i3="command_center.png" />
+        <val key="TitleCommand.sel#derive" value="BackCommand" />
+        <val key="TitleCommand.sel#fgColor" value="0" />
+        <val key="TitleCommand.sel#marUnit" value="2,2,2,2" />
+        <val key="TitleCommand.sel#margin" value="0,0,1,1" />
+        <val key="TitleCommand.sel#transparency" value="0" />
+        <val key="TitleCommand.transparency" value="0" />
+    </theme>
+    <image name="tile.jpg"  />
+</resource>

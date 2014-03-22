@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Main" cloudDestinationProperty="Main" scrollableY="true" title="Schedule" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" scrollableY="true" layout="BorderLayout" borderLayoutAbsoluteCenter="false" >
+    <component type="Container" name="Container3" cloudDestinationProperty="Container3" scrollableY="true" layout="BorderLayout" borderLayoutAbsoluteCenter="false" >
+      <layoutConstraint value="North" />
+      <component type="Button" name="Button" cloudDestinationProperty="Button" text="Delete" >
+        <layoutConstraint value="East" />
+      </component>
+      <component type="Button" name="Button1" cloudDestinationProperty="Button1" text="Update" >
+        <layoutConstraint value="Center" />
+      </component>
+      <component type="Button" name="Button2" cloudDestinationProperty="Button2" text="Add" >
+        <layoutConstraint value="West" />
+      </component>
+    </component>
+    <component type="Container" name="Container2" cloudDestinationProperty="Container2" scrollableY="true" layout="BorderLayout" borderLayoutAbsoluteCenter="false" >
+      <layoutConstraint value="Center" />
+      <component type="Container" name="Container9" cloudDestinationProperty="Container9" layout="BorderLayout" borderLayoutAbsoluteCenter="false" >
+        <layoutConstraint value="West" />
+        <component type="List" name="List" cloudDestinationProperty="List" >
+          <layoutConstraint value="Center" />
+          <stringItem value="2888/88/88 (WWW) ****" />
+          <stringItem value="Item 2" />
+          <stringItem value="Item 3" />
+        </component>
+        <component type="Label" name="Label" cloudDestinationProperty="Label" focusable="false" scrollVisible="false" snapToGrid="false" flatten="false" text="Hello!   **************" verticalAlignment="0" textPosition="0" >
+          <layoutConstraint value="North" />
+        </component>
+      </component>
+      <component type="Container" name="Container4" cloudDestinationProperty="Container4" scrollableY="true" layout="BoxLayout" boxLayoutAxis="Y" >
+        <layoutConstraint value="Center" />
+        <component type="TextField" name="TextField" cloudBoundProperty="text" cloudDestinationProperty="TextField" scrollVisible="false" text="TextField" columns="20" >
+        </component>
+        <component type="TextField" name="TextField1" cloudBoundProperty="text" cloudDestinationProperty="TextField1" text="TextField1" >
+        </component>
+        <component type="TextField" name="TextField2" cloudBoundProperty="text" cloudDestinationProperty="TextField2" text="TextField2" >
+        </component>
+      </component>
+    </component>
+    <component type="Container" name="Container1" cloudDestinationProperty="Container1" scrollableY="true" layout="BorderLayout" borderLayoutAbsoluteCenter="false" >
+      <layoutConstraint value="South" />
+      <component type="Container" name="Container7" cloudDestinationProperty="Container7" layout="BorderLayout" borderLayoutAbsoluteCenter="false" >
+        <layoutConstraint value="North" />
+        <component type="Container" name="Container6" cloudDestinationProperty="Container6" layout="BorderLayout" borderLayoutAbsoluteCenter="false" >
+          <layoutConstraint value="South" />
+          <component type="Button" name="Button3" cloudDestinationProperty="Button3" text="Today" >
+            <layoutConstraint value="North" />
+          </component>
+        </component>
+        <component type="Tabs" name="Tabs" cloudDestinationProperty="Tabs" >
+          <layoutConstraint value="North" />
+          <custom name="titles" type="java.lang.String" array="true" dimensions="1" >
+            <str>Text</str>
+            <str>Calendar</str>
+          </custom>
+          <component type="TextArea" name="TextArea" tabTitle="Text" cloudBoundProperty="text" cloudDestinationProperty="TextArea" text="TextArea" maxSize="10000" columns="80" rows="15" >
+          </component>
+          <component type="Calendar" name="Calendar" tabTitle="Calendar" cloudDestinationProperty="Calendar" >
+          </component>
+        </component>
+      </component>
+    </component>
+  </component>
+</component>
