@@ -1,4 +1,4 @@
 ScheduleDB
 ==========
 
-For Android
+For Android etc. (Codename One)
